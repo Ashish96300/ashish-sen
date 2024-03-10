@@ -6,7 +6,7 @@ class squareRoot
 	
 		double x=4;
 		double y;
-		y=Math.sqrt(x);s
+		y=Math.sqrt(x);
 	System.out.println("y= "+y);
 }
 }
